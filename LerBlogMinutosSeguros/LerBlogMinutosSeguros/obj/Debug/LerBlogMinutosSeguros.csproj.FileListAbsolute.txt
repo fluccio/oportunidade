@@ -1,0 +1,9 @@
+c:\users\fgluziani\documents\visual studio 2010\Projects\LerBlogMinutosSeguros\LerBlogMinutosSeguros\bin\LerBlogMinutosSeguros.dll
+c:\users\fgluziani\documents\visual studio 2010\Projects\LerBlogMinutosSeguros\LerBlogMinutosSeguros\bin\LerBlogMinutosSeguros.pdb
+c:\users\fgluziani\documents\visual studio 2010\Projects\LerBlogMinutosSeguros\LerBlogMinutosSeguros\obj\Debug\LerBlogMinutosSeguros.dll
+c:\users\fgluziani\documents\visual studio 2010\Projects\LerBlogMinutosSeguros\LerBlogMinutosSeguros\obj\Debug\LerBlogMinutosSeguros.pdb
+C:\Users\User\Desktop\fer\LerBlogMinutosSeguros\LerBlogMinutosSeguros\bin\LerBlogMinutosSeguros.dll
+C:\Users\User\Desktop\fer\LerBlogMinutosSeguros\LerBlogMinutosSeguros\bin\LerBlogMinutosSeguros.pdb
+C:\Users\User\Desktop\fer\LerBlogMinutosSeguros\LerBlogMinutosSeguros\obj\Debug\LerBlogMinutosSeguros.dll
+C:\Users\User\Desktop\fer\LerBlogMinutosSeguros\LerBlogMinutosSeguros\obj\Debug\LerBlogMinutosSeguros.pdb
+C:\Users\User\Desktop\fer\LerBlogMinutosSeguros\LerBlogMinutosSeguros\obj\Debug\LerBlogMinutosSeguros.csprojResolveAssemblyReference.cache
